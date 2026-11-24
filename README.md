@@ -1,2 +1,103 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Janak Raj </h1> <h3 align="center">A passionate cross platform mobile developer(flutter), who's very interested in user experience and giving the customer what to look forward to.  👀</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Janak&label=Profile%20views&color=0e75b6&style=flat" alt="Janak" /> </p>  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Janak" alt="Janak" /></a> </p>  <p align="left"> <a href="https://twitter.com/janak_heer" target="blank"><img src="https://img.shields.io/twitter/follow/janak_heer?logo=twitter&style=for-the-badge" alt="janak" /></a> </p>    - 🌱 I’m currently learning **Flutter, Flutter Animations**  - 👨‍💻 All of my projects are available at [https://github.com/jnkHeer](https://github.com/jnkHeer)   - 💬 Ask me about **flutter,Android, IOS Animations, WebApp, backend**  - 📫 How to reach me **janak206@gmail.com**  - ⚡ Fun fact **I love animations, gadgets and Tech**  <h3 align="left">Connect with me:</h3> <p align="left">  <a href="https://twitter.com/janak_heer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janak" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/janak-raj-9b31948a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janak-raj-9b31948a/" height="30" width="40" /></a>  <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank">  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank">  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mathworks.com/" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jnkHeer&show_icons=true&locale=en&layout=compact" alt="Janak" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jnkHeer&show_icons=true&locale=en" alt="Janak" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jnkHeer&" alt="Janak" /></p>
+<h1 align="center">Hi, I'm Janak Raj 👋</h1>
+
+<p align="center">
+  <a href="https://hirejanak.web.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Flutter+%7C+Android+%7C+iOS;Node.js+%26+Python+REST+APIs;Fintech+%C2%B7+Payments+%C2%B7+Health+%C2%B7+IoT" alt="Senior Software Engineer · Flutter · Android · iOS · Node.js and Python APIs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hirejanak.web.app"><img src="https://img.shields.io/badge/Portfolio-hirejanak.web.app-3B82F6?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/janak-raj-software-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:janak206@gmail.com"><img src="https://img.shields.io/badge/Email-janak206%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hirejanak.web.app/Janak_Raj_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Senior%20Mobile%20%7C%20Full%20Stack%20%7C%20Backend-22C55E?style=flat-square" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20years-6366F1?style=flat-square" alt="8+ years" />
+  <img src="https://img.shields.io/badge/Location-India%20%C2%B7%20Remote-F59E0B?style=flat-square" alt="India, remote" />
+</p>
+
+---
+
+## About me
+
+Senior Software Engineer with **8+ years** building production **mobile apps, web dashboards and REST APIs** for fintech, payments, healthcare, edtech and IoT.
+
+- 💼 Currently a **Senior Software Engineer at [looch](https://looch.money)**, building a US fintech business super app: banking, payments, corporate cards and accounting
+- 👥 Former **mobile team lead** who has mentored teams of **5–6 developers**
+- 🚀 Shipped **6+ production apps** to the App Store and Google Play, from architecture to release
+- 🔌 Comfortable across the stack: **Flutter and native mobile, Node.js and Python APIs, AWS and Firebase**
+- 🤝 Open to **Senior Mobile (Flutter), Full Stack, Backend and Tech Lead** roles: remote worldwide, or hybrid in India
+
+## What I build
+
+| 📱 Mobile apps | 🖥️ Web apps | 🔌 APIs & backend | ☁️ Cloud & delivery |
+|:--|:--|:--|:--|
+| Flutter, native Android (Kotlin, Java), iOS | Admin and reporting dashboards | REST API design and contracts | AWS, Firebase |
+| Payments, wallets, BLE devices, HealthKit | Business onboarding tools | Node.js, Express, Python, FastAPI | CI/CD and store releases |
+| Clean Architecture, BLoC, GetX | Responsive web UI | PostgreSQL, MySQL, database design | Analytics, crash monitoring |
+
+## Featured work
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[looch](https://looch.money)** | Fintech business super app: banking, Plaid linking, Apple Wallet cards, double-entry accounting, 1099s | Flutter · Node.js · AWS · Firebase |
+| **[TopTipper](https://toptipper.co/)** | Cashless QR tipping with a business web dashboard, analytics and payroll export | Flutter · Node.js · REST APIs |
+| **[YTeach](https://yteach.com/)** | K–12 peer tutoring on iOS, Android and web, with admin dashboards and SIS integration | Flutter · REST APIs · FCM |
+| **[Shes Birdie](https://www.shesbirdie.com/)** | Personal safety app paired with a BLE safety alarm, location sharing and emergency workflows | Flutter · BLE · Location |
+| **[Metabolic](https://apps.apple.com/sg/app/metabolic/id6443438112)** | Digital health platform with HealthKit and wearable integrations | Flutter · HealthKit · REST APIs |
+| **AI Trading System** | FastAPI service for market data, indicators and signals, with broker adapters and a backtesting engine | Python · FastAPI · pandas |
+
+👉 Full case studies on my portfolio: **[hirejanak.web.app](https://hirejanak.web.app)**
+
+## Tech stack
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,swift,react&perline=10" alt="Flutter, Dart, Android Studio, Kotlin, Java, Swift, React Native" />
+</p>
+
+**Backend, web & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,js,html,css,postgres,mysql&perline=10" alt="Node.js, Express, Python, FastAPI, JavaScript, HTML, CSS, PostgreSQL, MySQL" />
+</p>
+
+**Cloud & tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,git,github,githubactions,postman,figma,vscode&perline=10" alt="AWS, Firebase, Git, GitHub, GitHub Actions, Postman, Figma, VS Code" />
+</p>
+
+## Experience
+
+| Role | Company | When |
+|:--|:--|:--|
+| **Senior Software Engineer** | looch | May 2023 to Present |
+| **Senior Software Engineer & Mobile Team Lead** | Softradix Technologies | Dec 2020 to May 2023 |
+| **Senior Software Engineer & Team Lead** | Elint Minds | Mar 2020 to Nov 2020 |
+| **Android & Flutter Developer** | Zimble Code | Mar 2019 to Feb 2020 |
+| **Android Developer** | Beyond Root Technology Services | Sep 2017 to Mar 2019 |
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jnkHeer&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Janak's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnkHeer&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+
+## Let's connect
+
+I'm actively looking for my next role. If you're hiring for **mobile, full stack or backend engineering**, I'd love to talk.
+
+<p>
+  <a href="https://hirejanak.web.app"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=firebase&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/janak-raj-software-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:janak206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/janak_heer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jnkHeer&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" /></p>
